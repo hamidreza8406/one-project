@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ef2c6f1-1fc5-4f55-8527-1d9e0e8cc214" name="Changes" comment="" />
+    <list default="true" id="3ef2c6f1-1fc5-4f55-8527-1d9e0e8cc214" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/css/new.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/new.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,13 +66,14 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8b187332-2ea7-486a-81b1-233a196c913f" name="Changes" comment="" />
+      <changelist id="3ef2c6f1-1fc5-4f55-8527-1d9e0e8cc214" name="Changes" comment="" />
       <created>1719826567350</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719826567350</updated>
       <workItem from="1719826569771" duration="710000" />
       <workItem from="1719828193983" duration="22000" />
+      <workItem from="1719862023109" duration="731000" />
     </task>
     <servers />
   </component>
